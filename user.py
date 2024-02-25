@@ -1,4 +1,4 @@
-from edge_cases import ( VehicleAlreadyExists)
+from edgeCases import ( VehicleAlreadyExists)
 
 
 class User:

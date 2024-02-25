@@ -1,5 +1,5 @@
 from enum import Enum
-from edge_cases import (NoRideFound)
+from edgeCases import (NoRideFound)
 
 
 class SelectionStrategyType(Enum):

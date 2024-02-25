@@ -3,7 +3,7 @@ from dataStore.userDetails import UserManager
 from vehicle import Vehicle
 from user import User
 from ride import Ride
-from edge_cases import (InvalidVehicle, NoRideFound)
+from edgeCases import (InvalidVehicle, NoRideFound)
 from selection import (SelectionStrategyType, PreferredVehicleStrategy, MostVacantStrategy)
 
 

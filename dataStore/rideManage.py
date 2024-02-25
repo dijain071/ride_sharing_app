@@ -1,5 +1,5 @@
 from uuid import UUID
-from edge_cases import (AlreadyRideExists)
+from edgeCases import (AlreadyRideExists)
 
 class RideManager:
     def __init__(self):

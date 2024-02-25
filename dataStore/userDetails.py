@@ -1,5 +1,5 @@
 
-from edge_cases import ( InvalidUser,  UserAlreadyExists)
+from edgeCases import ( InvalidUser,  UserAlreadyExists)
 
 
 class UserManager:
