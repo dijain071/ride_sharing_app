@@ -1,5 +1,5 @@
-from DataStore.rideManage import RideManager
-from DataStore.userDetails import UserManager
+from dataStore.rideManage import RideManager
+from dataStore.userDetails import UserManager
 from vehicle import Vehicle
 from user import User
 from ride import Ride
